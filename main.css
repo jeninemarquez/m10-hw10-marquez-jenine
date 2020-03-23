@@ -1,3 +1,20 @@
+* {
+  font-family: 'Sen', sans-serif;
+  background-image: url("wavy-dots.png");
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.7rem;
+}
+
+h2, p {
+  font-weight: 400;
+}
+
+section {
+  padding-bottom: 2%;
+}
 
 .hide {
   opacity: 0;
